@@ -1,0 +1,5 @@
+{
+    "commands" : "```>help           --commands\n>infouser       --info about an user\n>poll           --start a poll```",
+    "pollConfigCommands" : "```>poll <propriedade> <valor>```",
+    "categorias" : "```>poll create <categoria1>,<categoria2>,<categoria3>```"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "emoji": "🔴",
+    "description": "red circle",
+    "category": "Symbols",
+    "aliases": ["red_circle"],
+    "tags": [],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🟠",
+    "description": "orange circle",
+    "category": "Symbols",
+    "aliases": ["orange_circle"],
+    "tags": [],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟡",
+    "description": "yellow circle",
+    "category": "Symbols",
+    "aliases": ["yellow_circle"],
+    "tags": [],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟢",
+    "description": "green circle",
+    "category": "Symbols",
+    "aliases": ["green_circle"],
+    "tags": [],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🔵",
+    "description": "blue circle",
+    "category": "Symbols",
+    "aliases": ["large_blue_circle"],
+    "tags": [],
+    "unicode_version": "6.0",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "🟣",
+    "description": "purple circle",
+    "category": "Symbols",
+    "aliases": ["purple_circle"],
+    "tags": [],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "🟤",
+    "description": "brown circle",
+    "category": "Symbols",
+    "aliases": ["brown_circle"],
+    "tags": [],
+    "unicode_version": "12.0",
+    "ios_version": "13.0"
+  },
+  {
+    "emoji": "⚫",
+    "description": "black circle",
+    "category": "Symbols",
+    "aliases": ["black_circle"],
+    "tags": [],
+    "unicode_version": "4.1",
+    "ios_version": "6.0"
+  },
+  {
+    "emoji": "⚪",
+    "description": "white circle",
+    "category": "Symbols",
+    "aliases": ["white_circle"],
+    "tags": [],
+    "unicode_version": "4.1",
+    "ios_version": "6.0"
+  }
+]
